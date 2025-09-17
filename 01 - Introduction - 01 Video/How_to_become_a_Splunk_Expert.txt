@@ -1,0 +1,9 @@
+Hi Splunkers,
+
+Questions from students inspired me to write this blog about "How to become a Splunk Expert". You'll get guidance on how to move from one stage to the next in terms of Courses and Certifications.
+
+If you're still wondering where to start or what next after taking the Splunk Core Certified User exam, this is a must read for you.
+
+Secondly, you'll also be able to download a free PDF copy of the exam questions and answers from quizzes and practice test. This will help for an easy review towards preparing for the Certification exam.
+
+https://www.rylkimsolutions.com/post/how-to-become-a-splunk-expert

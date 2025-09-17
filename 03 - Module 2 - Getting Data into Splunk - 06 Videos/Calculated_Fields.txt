@@ -1,0 +1,2 @@
+| eval callResult=if(responseCode==200, "Success", "Failure")
+| eval failureCode=if(responseCode>=400, responseCode, null())
